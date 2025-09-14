@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Maha!
 
-<img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" alt="Profile GIF" width="300"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" alt="Profile GIF" width="350"/>
+</p>
 
 ## 🌟 About Me
 
