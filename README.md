@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" alt="Profile GIF" width="350"/>
 </p>
+
 ## 🌟 About Me
 
 🎓 Master's student in **Computer Science** at **Wright State University, Dayton, Ohio**  
@@ -9,9 +10,6 @@
 🛠️ Skills: **Python | SQL | Pandas | NumPy | Excel | Power BI | ML Basics**  
 🙋 Pronouns: **She/Her**  
 ✍️ Blog : https://medium.com/@mallimahalakshmi3
-</td>
-</tr>
-</table>
 
 ## 📚 Currently Learning  
 
