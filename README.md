@@ -13,7 +13,7 @@
 
 ## 📚 Currently Learning  
 
-🤖 Exploring **Machine Learning**  
+🤖 Exploring **Data World**
 📊 Building small projects in **Data Analytics & Visualization**  
 
 
