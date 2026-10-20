@@ -13,4 +13,4 @@ I turn messy healthcare data into clear recommendations, such as which hospitals
 ### Writing
 I write about what I'm learning on [Medium](https://medium.com/@mallimahalakshmi3).
 
-[LinkedIn](https://www.linkedin.com/in/malli-maha-lakshmi-732902245) · mallimahalakshmi3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mahalakshmi-malli) · mallimahalakshmi3@gmail.com
