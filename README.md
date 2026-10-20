@@ -1,21 +1,16 @@
-## 👋 Hi, I'm Maha!
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" alt="Profile GIF" width="350"/>
-</p>
+# Hi, I'm Maha
 
-## 🌟 About Me
+Data analyst focused on **healthcare analytics**. MS in Computer Science at Wright State University, graduating December 2026.
 
-🎓 Master's student in **Computer Science** at **Wright State University, Dayton, Ohio**  
-📊 Aspiring **Data Analyst** passionate about turning data into insights  
-🛠️ Skills: **Python | SQL | Pandas | NumPy | Excel | Power BI | ML Basics**  
-🙋 Pronouns: **She/Her**  
-✍️ Blog : https://medium.com/@mallimahalakshmi3
+I turn messy healthcare data into clear recommendations, such as which hospitals and conditions drive avoidable readmissions.
 
-## 📚 Currently Learning  
+**Tools:** SQL · Python (pandas, NumPy) · Power BI · Excel
 
-🤖 Exploring **Data World**
-📊 Building small projects in **Data Analytics & Visualization**  
+### Featured projects
+- **Hospital Readmissions Analysis** *(in progress)*: CMS data on excess readmissions across U.S. hospitals
+- **[Analytics Warm-ups](link)**: short analyses of public healthcare datasets, each ending in a recommendation
 
+### Writing
+I write about what I'm learning on [Medium](https://medium.com/@mallimahalakshmi3).
 
-💡 Always curious, continuously learning, and excited to work on projects that connect **data, technology, and decision-making**. 
-
+[LinkedIn](https://www.linkedin.com/in/malli-maha-lakshmi-732902245) · mallimahalakshmi3@gmail.com
